@@ -1,6 +1,6 @@
 #Drone Etiquette
 
-This guide is intended to supplement local civil aviation laws and help a new drone pilot start their mastery of drone aviation.  This guide represents a collection of common sense advice and lessons from experienced pilots from around the world.  If you are reading this as an experienced drone pilot, it should seem mostly obvious and rather pedestrian.  If you are new to the practice, we hope this helps you fly with more confidence and ultimately achieve your goals as a drone pilot. 
+This guide is intended to supplement local civil aviation laws and help a new drone pilot start their mastery of drone aviation.  This guide represents a collection of common sense advice and lessons from experienced pilots around the world.  If you are reading this as an experienced drone pilot, it should seem mostly obvious and rather pedestrian.  If you are new to the practice, we hope this helps you fly with more confidence and ultimately achieve your goals as a drone pilot. 
 
 ## Safety and maintenance
 
