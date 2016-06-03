@@ -7,7 +7,7 @@ This guide is intended to supplement local civil aviation laws and help a new dr
 The order of safety for every drone pilot should be 
 
 1. Safety of self
-2. Safety of surrounding humans and animals 
+2. Safety of surrounding environment, especially humans and animals 
 3. Safety of your aircraft
 
 At first glance this list may seem selfish but you will understand why it must be this way.  You are the captain of the aircraft, so if anything were to happen to you, you can assume you will end up hurting number 2 and 3 on the list.  
