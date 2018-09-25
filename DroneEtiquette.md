@@ -1,8 +1,8 @@
-#Drone Etiquette
+## Drone Etiquette
 
 This guide is intended to supplement local civil aviation laws and help a new drone pilot start their mastery of drone aviation.  This guide represents a collection of common sense advice and lessons from experienced pilots around the world.  If you are reading this as an experienced drone pilot, it should seem mostly obvious and rather pedestrian.  If you are new to the practice, we hope this helps you fly with more confidence and ultimately achieve your goals as a drone pilot. 
 
-## Safety and maintenance
+### Safety and maintenance
 
 The order of safety for every drone pilot should be 
 
@@ -12,7 +12,7 @@ The order of safety for every drone pilot should be
 
 At first glance this list may seem selfish but you will understand why it must be this way.  You are the captain of the aircraft, so if anything were to happen to you, you can assume you will end up hurting number 2 and 3 on the list.  
 
-Make sure you feel healthy and alert when you are about to fly.  Drone piloting requires all of your faculties and you should be 💯 focused on the task at hand.  If you are feeling overly hungry, tired, foggy, or otherwise ill, consider delaying your flight plans until you are feeling better.  
+Make sure you feel healthy and alert when you are about to fly.  Drone piloting requires all of your faculties and you should be :100: focused on the task at hand.  If you are feeling overly hungry, tired, foggy, or otherwise ill, consider delaying your flight plans until you are feeling better.  
 
 When you are flying it is best to stay in a calm, non distracted mind state. Don’t react, respond.  Put your phone in airplane mode and maintain optimal breathing technique.  You cannot always control what happens while flying but you can control your response.  Move a little slower than you normally do as to make your movements precise and deliberate. 
 
@@ -24,11 +24,11 @@ When planning your flight, consider the consequences if your drone were to fall 
 
 The more you protect the safety of your aircraft the less likely you are to experience a sudden, unexpected failure.  Keep your aircraft in great shape, and it will keep you in great shape. 
 
-## Playing well with others
+### Playing well with others
 
 Drone piloting is a unique practice of aviation which requires the pilot to be in the air and on the ground simultaneously.  It will challenge your ability to multitask.  Here are some tips to help you be a good neighbor, both in the sky and on the ground.
 
-**On the Ground**
+#### On the Ground
 
 The fundamental building block of a solid drone ground game is situational awareness.  Before you begin execution of your flight plan, take in the scene you are about to launch from.  
 
@@ -36,7 +36,7 @@ If there are people close enough to hear the drone, read their body language.  I
 
 Fear of the unknown is perfectly normal.  A good way to break the ice is to inform bystanders of your flight plan.  It’s not necessarily required by law, but by doing this you get a chance to let them know what your intentions are and demonstrate you are friendly as opposed to a potential threat.
 
-**In the Air**
+#### In the Air
 
 The key similarity of air game to ground game is still situational awareness, but the key distinction is that in the air your senses are mostly limited by the sensors on your aircraft and your knowledge of the local airspace.
 
@@ -48,4 +48,6 @@ In accordance with the drone pilots order of safety, manned aircraft always have
 
 It is your responsibility to understand and comply with flight rules defined by your local civil aviation authority.  Some modern drones have automatic, software defined geofences that will help you comply with local rules but it is important to know that they will not necessarily stop you from doing something illegal.  
 
-The software and hardware systems that help drone pilots navigate the air space are getting better every day.  The more you learn about state of the art piloting and navigation techniques, the more you can accomplish as a drone pilot.  The Drone Pilots Federation is committed to sharing as much current knowledge as possible in order to keep the skies safe and free today.  In order to keep them safe and free for many years to come, we need your help!  Share this document if you found it to be helpful.  Please [apply to join the Civilian Drone Etiquette work group] (http://www.dronepilotsfederation.org/join-work-group)  if you are a drone pilot that has a contribution you feel is important to share.  
+The software and hardware systems that help drone pilots navigate the air space are getting better every day.  The more you learn about state of the art piloting and navigation techniques, the more you can accomplish as a drone pilot.  The Drone Pilots Federation is committed to sharing as much current knowledge as possible in order to keep the skies safe and free today.  In order to keep them safe and free for many years to come, we need your help!  Share this document if you found it to be helpful.  Please 
+[apply to join the Civilian Drone Etiquette work group](http://www.dronepilotsfederation.org/join-work-group) 
+if you are a drone pilot that has a contribution you feel is important to share.  
